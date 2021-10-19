@@ -24,6 +24,12 @@ If you have trouble catching the top hem we suggest to either ***Baste*** close 
 
 </Tip>
 
+<Note>
+  
+A fun thing to you can do is embroider/stitch the pocket with the name of the person the apron is for or even a cute design. Just remember that aprons typically get dirty so don't go to overtop with it.
+  
+</Note>
+
 ### Step 2: The Front
 
 __1.__ Press under the side seam allowances to the wrong side.  
