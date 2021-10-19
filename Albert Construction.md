@@ -29,3 +29,29 @@ If you have trouble catching the top hem we suggest to either ***Baste*** close 
 __1.__ Press under the side seam allowances to the wrong side.  
 __2.__ Press under the side seams to the wrong side along the hem lines making sure the seam allowances are tucked underneath.  
 __3.__ On the right side topstich close to where the folded edges lie underneath, making sure to catch the hems as you sew.  
+__4.__ Repeat Steps 1 - 3 for top and bottom hems.  
+
+<Note>
+
+It is recommneded to do hem the side seams before the top and bottom seams as they are narrower.  
+The side seams are narrow hems simply being the seam allowance folded over twice.  
+
+</Note>
+
+### Step 3: The Straps
+
+__1.__ Fold one strap in half, right sides together and sew the top and side together.  
+__2.__ Turn inside out through the bottom. Press.  
+__3.__ Using the cross and rectangle as a guide, stitch the top of the strap to the wrong side of the front on the top left.  
+__4.__ Using the cross and rectangle as a guide, stitch the bottom of the strap to the wrong side of the front at the side right.  
+__5.__ Repeat Steps 1 - 4 for the remaining strap attaching it at the top right and then the side left.  
+
+<Note>
+  
+You can make another set of straps to tie at the back if you wish to keep the apron close to body when moving.  
+
+</Note>
+
+### Step 4: Enjoy!
+
+You're done! Go enjoy your apron and make every stain a memory!
