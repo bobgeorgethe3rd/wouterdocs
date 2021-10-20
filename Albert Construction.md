@@ -13,8 +13,8 @@ Glossary Terms will be formatted in ***bold and italics*** below.
 
 __1.__ Along the top of the pocket fold the seam allowance to wrong side, press.  
 __2.__ Then fold the top hem allowance to wrong side and press, making sure the seam allowance is tucked underneath. Pin in place if you need to.  
-__3.__ On the right side topstich close to where the hem edge lies underneath, making sure to catch the hem as you sew.  
-__4.__ Press the seam allowance of the sides and bottom to the wrong side.  
+__3.__ Press the seam allowance of the sides and bottom to the wrong side.  
+__4.__ On the right side topstich close to where the hem edge lies underneath, making sure to catch the hem and seam allowances as you sew.  
 __5.__ Pin the pocket to the front using the guides.  
 __6.__ ***Edgestitch*** the sides and bottom of the pocket leaving the top open. Make sure to backstitch at the start and end to secure the pocket properly.  
 
