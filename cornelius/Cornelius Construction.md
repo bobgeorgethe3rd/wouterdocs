@@ -39,16 +39,16 @@ Going forward the pockets and fronts will just be referred to as the fronts.
 
 ### Step 2: The Fly
 
-__1.__ With right sides together, from the top ***Baste*** along the fly line stopping at the crotch seam.  
+__1.__ With right sides together, from the top ***Baste*** along the fly line stopping at the notch on the crotch seam.  
 __2.__ From where you left off with basting, stitch the crotch seam together making sure to secure your stitches where the basting ends.  
 __3.__ Press open the fly and seam.  
 __4.__ Lay the fronts down wrong side up so the right sides of the fly flaps are facing you.  
 __5.__ Lay zipper face up on the front flaps, with the left side of the zipper touching the seam, with the bottom of the right zipper tape on the curved flap.  
 __6.__ Sew the right zipper tape to the right flap close to the zipper teeth using a zipper foot. Don't sew it to the front itself!  
-__7.__ Pull the zipper to the left so the right flap is pulled over and the
+__7.__ Pull the zipper to the left so the right flap is pulled over.  
 __8.__ Pin the left zipper tape to the left flap.  
 __9.__ Sew the left zipper tape to left flap close to the zipper teeth using a zipper foot. Don't sew it to the front itself!  
-__10.__ Construct the zipper guard
+__10.__ Construct the zipper guard.  
 __11.__ Lay the zipper guard on the right flap, right sides touching.  
 __12.__ Sew the zipper guard to the right flap, ***Finish*** the right side to your liking.    
 __13.__ ***Finish*** the left side of the left flap to your liking.  
