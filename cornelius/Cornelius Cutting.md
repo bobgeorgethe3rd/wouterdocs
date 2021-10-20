@@ -12,5 +12,5 @@ title: Cornelius Cutting
  - **Lining (Pocket) fabric**
    - Cut **2 pocket** parts
  - **Interfacing**
-   - Cut **1 waistabnd** parts on the fold
+   - Cut **1 waistabnd** part on the fold
    - Cut **2 leg band** parts
