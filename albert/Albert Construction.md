@@ -26,6 +26,7 @@ If you have trouble catching the top hem we suggest to either ***Baste*** close 
 
 <Note>
   
+There are multiple ways to sew a patch pocket so use the way you prefer if you do not like this one.  
 A fun thing to you can do is embroider/stitch the pocket with the name of the person the apron is for or even a cute design. Just remember that aprons typically get dirty so don't go to overtop with it.
   
 </Note>
