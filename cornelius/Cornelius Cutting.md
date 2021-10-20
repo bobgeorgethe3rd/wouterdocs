@@ -13,4 +13,9 @@ title: Cornelius Cutting
    - Cut **2 pocket** parts
  - **Interfacing**
    - Cut **1 waistabnd** part on the fold
-   - Cut **2 leg band** parts
+
+<Note>
+
+If your main fabric is quite lightweight and flimsy you may need to interface the leg bands with a light interfacing.
+
+</Note>
