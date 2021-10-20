@@ -7,6 +7,10 @@ title: Cornelius Construction
 
 - ***Topstitch*** : On outside stitch 1/4" (6mm) away from the seam.
 
+- ***Slipstitch*** : A concealed stitch to join folded edges to body or another folded edge.
+
+- ***Whipstitch*** : A close overcast stitch. Also known as a Fell Stitch.
+
 - ***Baste*** : Long temporary stitches to join pieces together. Can be machined or hand-sewn.
 
 - ***French Seam*** : With wrong sides together sew half the seam allowance (e.g. 1cm allowance would be 0.5cm), trim. Press right sides together. Sew the remaining seam allowance encasing the raw edges.
@@ -75,9 +79,20 @@ __1.__
 
 ### Step 4: Waistband
 
-__1.__ 
+__1.__ Face one of the waistband pieces using your preffered method.  
+__2.__ Sew the faced waistband piece to the top of the legs right sides together.  
+__3.__ Press the waistband and seam allowance up and away from leg. Trim the seam allowance to reduce bulk.  
+__4.__ Press the bottom seam allowance to the wrong side of the remaining waistband piece. Trim the bottom seam allowance.  
+__5.__ With right sides together sew the remaining waistband to the faced waistband along the top and side. 
+__6.__ Turn the waistband out. Press.
+__7.__ ***Slipstitch*** or ***Whipstitch*** the folded edge of the waistband to front, making sure the folded edge is covering the stitcing.
+__8.__ Sew the buttonhole. The buttons will be sewn later.  
 
-### Step 5: Enjoy!
+### Step 5: Buttons 
+
+__1.__ Sew the waistband and leg band buttons on.  
+
+### Step 6: Enjoy!
 
 You're all done! Now go have a ride in your brilliant new cycling breeches!
 
