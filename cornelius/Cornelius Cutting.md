@@ -9,6 +9,7 @@ title: Cornelius Cutting
    - Cut **2 pocket facing** parts
    - Cut **2 waistband** parts on the fold
    - Cut **4 leg band** parts
+   - Cut **2 zipper guard** parts
  - **Lining (Pocket) fabric**
    - Cut **2 pocket** parts
  - **Interfacing**
