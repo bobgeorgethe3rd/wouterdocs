@@ -101,13 +101,14 @@ If you are worried about a draft you can create a triangle piece of fabric that 
 
 __1.__ Construct plackets for the leg slits.  
 __2.__ Sew the plackets to the leg slits similar to how you would sew a sleeve cuff on a shirt.  
-__3.__ Sew one of the leg band pieces to each leg right sides together, matching notches.  
-__4.__ Press the bands and seam allowance down and away from leg. Trim the seam allowance to reduce bulk.  
-__5.__ Press the top seam allowance to the wrong side of the remaining leg band pieces. Trim the top seam allowance.  
-__6.__ With right sides together sew the remaining leg and pieces to the attached leg bands along the bottoms and sides.   
-__7.__ Turn the leg bands out. Press.  
-__8.__ ***Slipstitch*** or ***Whipstitch*** the folded edge of the waistband to front, making sure the folded edge is covering the stitcing.  
-__9.__ Sew the buttonhole. The buttons will be sewn later.  
+__3.__ Close the darts on the leg band pieces.  
+__4.__ Sew one of the leg band pieces to each leg right sides together, matching notches.  
+__5.__ Press the bands and seam allowance down and away from leg. Trim the seam allowance to reduce bulk.  
+__6.__ Press the top seam allowance to the wrong side of the remaining leg band pieces. Trim the top seam allowance.  
+__7.__ With right sides together sew the remaining leg and pieces to the attached leg bands along the bottoms and sides.   
+__8.__ Turn the leg bands out. Press.  
+__9.__ ***Slipstitch*** or ***Whipstitch*** the folded edge of the waistband to front, making sure the folded edge is covering the stitcing.  
+__10.__ Sew the buttonhole. The buttons will be sewn later.  
 
 <Note>
 
