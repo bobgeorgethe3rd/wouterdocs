@@ -99,7 +99,7 @@ If you are worried about a draft you can create a triangle piece of fabric that 
 
 #### Keystone
 
-__1.__ Construct plackets for the leg slits.  
+__1.__ If using construct plackets for the leg slits.  
 __2.__ Sew the plackets to the leg slits similar to how you would sew a sleeve cuff on a shirt.  
 __3.__ Close the darts on the leg band pieces.  
 __4.__ Sew one of the leg band pieces to each leg right sides together, matching notches.  
