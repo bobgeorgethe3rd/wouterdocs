@@ -93,7 +93,7 @@ __9.__ Sew the buttonhole. The buttons will be sewn later.
 
 <Note>
 
-If you are worried about a draft you can create a triangle piece of fabric that sits behind the lsits out of your pocket fabric. Attaching it before Step 3 to one of the sides of the slits.  
+If you are worried about a draft you can create a triangle piece of fabric that sits behind the slits out of your pocket fabric. Attaching it before Step 3 to one of the sides of the slits.  
 
 </Note>
 
@@ -109,6 +109,12 @@ __7.__ With right sides together sew the remaining leg and pieces to the attache
 __8.__ Turn the leg bands out. Press.  
 __9.__ ***Slipstitch*** or ***Whipstitch*** the folded edge of the waistband to front, making sure the folded edge is covering the stitcing.  
 __10.__ Sew the buttonhole. The buttons will be sewn later.  
+
+<Note>
+
+If you are worried about a draft you will need to construct plackets for the leg slits.    
+
+</Note>
 
 <Note>
 
