@@ -61,4 +61,4 @@ You can make another set of straps to tie at the back if you wish to keep the ap
 
 ### Step 4: Enjoy!
 
-You're done! Go enjoy your apron and make every stain a memory!
+You're done! Now go enjoy your apron and make every stain a memory!
