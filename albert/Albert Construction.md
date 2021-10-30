@@ -36,7 +36,7 @@ A fun thing you can do is embroider/stitch the pocket with the name of the perso
 __1.__ Press under the side seam allowances to the wrong side.  
 __2.__ Press under the side seams to the wrong side along the hem lines making sure the seam allowances are tucked underneath.  
 __3.__ On the right side topstich close to where the folded edges lie underneath, making sure to catch the hems as you sew.  
-__4.__ Repeat Steps 1 - 3 for top and bottom hems.  
+__4.__ Repeat Step 2: 1 - 3 for top and bottom hems.  
 
 <Note>
 
@@ -51,7 +51,7 @@ __1.__ Fold one strap in half, right sides together and sew the top and side tog
 __2.__ Turn inside out through the bottom. Press.  
 __3.__ Using the cross and rectangle as a guide, stitch the top of the strap to the wrong side of the front on the top left.  
 __4.__ Using the cross and rectangle as a guide, stitch the bottom of the strap to the wrong side of the front at the side right.  
-__5.__ Repeat Steps 1 - 4 for the remaining strap attaching it at the top right and then the side left.  
+__5.__ Repeat Step 3: 1 - 4 for the remaining strap attaching it at the top right and then the side left.  
 
 <Note>
   
