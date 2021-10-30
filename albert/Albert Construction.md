@@ -40,7 +40,7 @@ __4.__ Repeat Step 2: 1 - 3 for top and bottom hems.
 
 <Note>
 
-It is recommended to do hem the side seams before the top and bottom seams as they are narrower.  
+It is recommended to hem the side seams before the top and bottom seams as they are narrower.  
 The side seams are narrow hems simply being the seam allowance folded over twice.  
 
 </Note>
