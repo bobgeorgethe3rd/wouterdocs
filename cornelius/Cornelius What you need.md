@@ -8,7 +8,7 @@ To make Cornelius, you will need the following:
 - About 2 metres of a suitable fabric ([see Cornelius Fabric options](/docs/patterns/cornelius/fabric/))
 - About 0.5 metres of lining fabric ([see Cornelius Fabric options](/docs/patterns/cornelius/fabric/))
 - Interfacing for the waistband ([see Cornelius Fabric options](/docs/patterns/cornelius/fabric/))
-- A zip for the fly
+- A zip or 3 buttons for the fly
 - 3 or 7 Buttons for waistband and leg bands
 
 <Note>
