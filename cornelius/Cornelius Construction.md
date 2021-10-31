@@ -86,7 +86,7 @@ __2.__ Press the seam allowances of the slits to the wrongs sides. Stitch in pla
 __3.__ Sew one of the leg band pieces to each leg right sides together, matching notches.  
 __4.__ Press the bands and seam allowance down and away from leg. Trim the seam allowance to reduce bulk.  
 __5.__ Press the top seam allowance to the wrong side of the remaining leg band pieces. Trim the top seam allowance.  
-__6.__ With right sides together sew the remaining leg and pieces to the attached leg bands along the bottoms and sides. 
+__6.__ With right sides together sew the remaining leg and pieces to the attached leg bands along the bottoms and sides.  
 __7.__ Turn the leg bands out. Press.  
 __8.__ ***Slipstitch*** or ***Whipstitch*** the folded edge of the waistband to front, making sure the folded edge is covering the stitcing.  
 __9.__ Sew the buttonhole. The buttons will be sewn later.  
@@ -130,7 +130,7 @@ __1.__ Face one of the waistband pieces using your preffered method.
 __2.__ Sew the faced waistband piece to the top of the legs right sides together.  
 __3.__ Press the waistband and seam allowance up and away from leg. Trim the seam allowance to reduce bulk.  
 __4.__ Press the bottom seam allowance to the wrong side of the remaining waistband piece. Trim the bottom seam allowance.  
-__5.__ With right sides together sew the remaining waistband to the faced waistband along the top and sides. 
+__5.__ With right sides together sew the remaining waistband to the faced waistband along the top and sides.  
 __6.__ Turn the waistband out. Press.  
 __7.__ ***Slipstitch*** or ***Whipstitch*** the folded edge of the waistband to front, making sure the folded edge is covering the stitcing.  
 __8.__ Sew the buttonhole. The buttons will be sewn later.  
