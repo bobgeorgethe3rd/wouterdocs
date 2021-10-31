@@ -48,7 +48,7 @@ __6.__ Sew the right zipper tape to the right flap close to the zipper teeth usi
 __7.__ Pull the zipper to the left so the right flap is pulled over.  
 __8.__ Pin the left zipper tape to the left flap.  
 __9.__ Sew the left zipper tape to left flap close to the zipper teeth using a zipper foot. Don't sew it to the front itself!  
-__10.__ Construct the zipper guard.  
+__10.__ Fold the zipper guard in half wrong sides together.  
 __11.__ Lay the zipper guard on the right flap, right sides touching.  
 __12.__ Sew the zipper guard to the right flap, ***Finish*** the right side to your liking.    
 __13.__ ***Finish*** the left side of the left flap to your liking.  
