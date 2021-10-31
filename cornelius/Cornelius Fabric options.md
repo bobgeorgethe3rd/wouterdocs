@@ -23,7 +23,7 @@ If you have anything you typically use for pockets in trousers that will work to
 
 ### Interfacing
 
-This pattern requires the waistband to interfaced. We recommend using a **Hair Cloth** for the interfacing, you can either use a fusible or non-fusible which ever you prefer. If you do not access to hair cloth you can use any medium to firm interfacing you deem appropriate for waistbands.     
+This pattern requires the waistband to be interfaced. We recommend using a **Hair Cloth** for the interfacing, you can either use fusible or non-fusible which ever you prefer. If you do not have access to hair cloth you can use any medium to firm interfacing you deem appropriate for waistbands.     
 
 <Note>
 
